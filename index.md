@@ -1,9 +1,9 @@
 > Horizontal nav bar:
 
 Browse: 
-[Data Basics](categories/data_basics.md)
-[Starting out with MLJ](starting_out_with_MLJ.md) 
-[Intro to Stats Learning](categories) 
+[Data Basics](categories/data_basics.md) | 
+[Starting out with MLJ](categories/starting_out_with_mlj.md) | 
+[Intro to Stats Learning](categories/intro_to_stats_learning.md) |
 [End-to-End Examples](categories/end_to_end_examples.md)
 
 # Data Science Tutorials
@@ -15,8 +15,8 @@ related packages.
 
 > Large buttons? first in different colour:
 
-[How to run code](how_to_run_code.md) 
-[New to Julia?](new_to_julia) 
-[Only new to ML?](only_new_to_ml.md) 
-[New to Julia and ML?](new_to_both.md) 
+[How to run code](redirection/how_to_run_code.md) |
+[New to Julia?](redirection/new_to_julia) |
+[Only new to ML?](redirection/only_new_to_ml.md) | 
+[New to Julia and ML?](redirection/new_to_both.md)
 
