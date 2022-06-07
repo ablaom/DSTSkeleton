@@ -1,6 +1,6 @@
 # New to machine learning but have moderate Julia skills?
 
-Try starting out with the [Introduction to Statistical
+Start out with the [Introduction to Statistical
 Learning](/categories/intro_to_stats_learning.md) tutorials, or one of
 these [external resources](/external_resources.md):
 
