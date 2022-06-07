@@ -16,7 +16,7 @@ related packages.
 > Large buttons? first in different colour:
 
 [How to run code](how_to_run_code.md) |
-[New to Julia?](redirection/new_to_julia) |
-[Only new to ML?](redirection/only_new_to_ml.md) | 
-[New to Julia and ML?](redirection/new_to_both.md)
+[New to Julia?](redirections/new_to_julia.md) |
+[Only new to ML?](redirections/only_new_to_ml.md) | 
+[New to Julia and ML?](redirections/new_to_both.md)
 
