@@ -8,14 +8,14 @@ Browse:
 
 # Data Science Tutorials
 
-Tutorials for learning data science using Julia, with a focus on multi-paradigm machine
-learning (ML) and the
+Tutorials for learning data science using Julia, with a focus on
+multi-paradigm machine learning (ML) using the
 [MLJ](https://alan-turing-institute.github.io/MLJ.jl/dev/) toolbox and
-related packages. 
+related packages.
 
 > Large buttons? first in different colour:
 
-[How to run code](redirection/how_to_run_code.md) |
+[How to run code](how_to_run_code.md) |
 [New to Julia?](redirection/new_to_julia) |
 [Only new to ML?](redirection/only_new_to_ml.md) | 
 [New to Julia and ML?](redirection/new_to_both.md)
