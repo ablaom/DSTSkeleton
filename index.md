@@ -18,5 +18,5 @@ related packages.
 [How to run code](how_to_run_code.md) |
 [New to Julia?](redirections/new_to_julia.md) |
 [New to ML?](redirections/new_to_ml.md) | 
-[New to Julia and ML?](redirections/new_to_both.md)
+[New to Julia and ML?](redirections/new_to_julia_and_ml.md)
 
