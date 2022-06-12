@@ -20,3 +20,7 @@ related packages.
 [New to ML?](redirections/new_to_ml.md) | 
 [New to Julia and ML?](redirections/new_to_julia_and_ml.md)
 
+
+> Smaller link:
+
+[Contribute](https://github.com/JuliaAI/DataScienceTutorials.jl)
