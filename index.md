@@ -9,7 +9,7 @@ Browse:
 # Data Science Tutorials
 
 Tutorials for learning data science using Julia, with a focus on
-multi-paradigm machine learning (ML) using the
+machine learning (ML) using the
 [MLJ](https://alan-turing-institute.github.io/MLJ.jl/dev/) toolbox and
 related packages.
 
